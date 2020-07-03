@@ -1,0 +1,15 @@
+# Power Manager Configuration File
+
+[host]
+
+  [host.caspar]
+  mac = "00:aa:bb:cc:dd:ee"
+  hostname = "caspar.lan"
+
+  [host.melchior]
+  mac = "00:aa:bb:cc:dd:ef"
+  hostname = "melchior.lan"
+
+  [host.balthasar]
+  mac = "00:aa:bb:cc:dd:f0"
+  hostname = "balthasar.lan"
